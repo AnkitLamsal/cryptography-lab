@@ -4,8 +4,8 @@ All the Codes are written in Python Programming Language.
 
 Classical Ciphers
 
-1. [Ceaser Cipher](./1. Ceaser Cipher/README.md )
-2. [Playfair Cipher](./2. Playfair Cipher/README.md)
+1. Ceaser Cipher
+2. Playfair Cipher
 3. RailFence Cipher
 4. Vigerene Cipher
 
