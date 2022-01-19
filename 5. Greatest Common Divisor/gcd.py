@@ -3,7 +3,6 @@ def gcd(a,b):
         return b
     else:
         return gcd(b%a,a)
-
 a  =  int(input("Enter the value of A:"))
 b =  int(input("Enter the value of B:"))
 r =  gcd(a,b)
